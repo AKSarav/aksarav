@@ -1,7 +1,14 @@
 # Hi, I'm Sarav 👋
 
-Solutions Architect · AI/ML Engineer · Open Source Developer · 15 years building production systems across cloud, data, and AI.
+Engineering leader with 16+ years of experience building scalable platforms and distributed systems across SaaS, FinTech, Mobile, Retail, and Consulting.
 
+I focus on solution architecture and system design, bridging business requirements with technology decisions across cloud, data, and AI platforms. Recently, my work has centered on taking AI solutions from concept to production, ensuring they are usable, governable, and scalable.
+
+Besides building products for Enterprise and Startups, I’ve built and led multiple open source products and platforms, including CronOne, KubeNodeUsage, PDFstract, ConfMap, and YamlQL, used by engineers and teams worldwide.
+
+As a manager and architect, I lead with a people-first mindset, building high-trust teams and strong engineering cultures, from zero-to-one to scale.
+
+Focused on building systems with innovation and teams with great culture that last.
 ---
 
 ## 🚀 Projects
