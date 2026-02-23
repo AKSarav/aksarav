@@ -6,7 +6,7 @@ I focus on solution architecture and system design, bridging business requiremen
 
 Besides building products for Enterprise and Startups, I’ve built and led multiple open source products and platforms, including CronOne, KubeNodeUsage, PDFstract, ConfMap, and YamlQL, used by engineers and teams worldwide.
 
-As a manager and architect, I lead with a people-first mindset, building high-trust teams and strong engineering cultures, from zero-to-one to scale.
+As an Engineering manager and Solution Architect, I lead with a people-first mindset, building high-trust teams and strong engineering cultures, from zero-to-one to scale.
 
 Focused on building systems with innovation and teams with great culture that last.
 ---
